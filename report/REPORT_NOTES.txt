@@ -1,0 +1,10 @@
+REPORT PACKAGE
+
+The PBIX is included as Singapore_HDB_Analysis_Version2.pbix.
+All three screenshots are included. Overview and Explorer previews have been replaced with the latest supplied images.
+
+Explorer preview: Town/Year All, floor area 70-176 m2, budget SGD 600000.
+The median card is budget-aware. The town chart covers all budgets.
+Minor presentation items: clear the title selection before a future screenshot; add SGD to the median card label and All budgets to the town chart subtitle.
+
+The PBIX was preserved byte-for-byte. Power BI Desktop open/refresh was not tested here.
